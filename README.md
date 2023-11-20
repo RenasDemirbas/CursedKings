@@ -1,1 +1,1 @@
-# CursedKings
+1.0
